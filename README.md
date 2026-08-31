@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://snow-leopard.dev?source=github.com">
+    <img src="./assets/hero.svg" width="100%" alt="watameln — snow-leopard.dev">
+  </a>
+</p>
 
-<!--
-**watameln/watameln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://snow-leopard.dev?source=github.com">snow-leopard.dev</a>
+  &nbsp;-&nbsp;
+  <a href="https://snow-leopard.dev/portfolio">portfolio</a>
+  &nbsp;-&nbsp;
+  <a href="https://snow-leopard.dev/contact">contact</a>
+</p>
