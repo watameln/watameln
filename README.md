@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://snow-leopard.dev?source=github.com">snow-leopard.dev</a>
+  <a href="https://snow-leopard.dev?source=github.com?source=github.com">snow-leopard.dev</a>
   &nbsp;-&nbsp;
-  <a href="https://snow-leopard.dev/portfolio">portfolio</a>
+  <a href="https://snow-leopard.dev/portfolio?source=github.com">portfolio</a>
   &nbsp;-&nbsp;
-  <a href="https://snow-leopard.dev/contact">contact</a>
+  <a href="https://snow-leopard.dev/contact?source=github.com">contact</a>
 </p>
