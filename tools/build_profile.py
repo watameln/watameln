@@ -66,7 +66,7 @@ def build_hero(background: Image.Image) -> str:
   </g>
 
   <g class="in3 sans">
-    <text x="48" y="445" fill="#d3c9bd" font-size="17">✅I'm a Roblox scripter and cybersecurity professional. I've been scripting on Roblox</text>
+    <text x="48" y="445" fill="#d3c9bd" font-size="17">I'm a Roblox scripter and cybersecurity professional. I've been scripting on Roblox</text>
     <text x="48" y="474" fill="#d3c9bd" font-size="17">since 2018, and I also work on software, security, and other projects outside the platform.</text>
   </g>
 </svg>'''
